@@ -9,7 +9,7 @@ The library is usually used to easily add html codes to php in a couple of lines
  
  ## Examples:
  `echo h2('Hello World!')` -> Hello World
- `loop(5,'Hello World!',['br'=>true]);` -> <br>Hello World <br>Hello World <br>Hello World <br>Hello World <br>Hello World
+ <br><br>`loop(5,'Hello World!',['br'=>true]);` -> <br>Hello World <br>Hello World <br>Hello World <br>Hello World <br>Hello World
  
  `echo font('cursive','<h4>Hello World!</h4>');` -> <br>`<h4 style="font-family:cursive">Hello World!</h4>`
  
