@@ -27,3 +27,6 @@ The library is usually used to easily add html codes to php in a couple of lines
 $_POST = $post;
 $_GET = $get;
 $_COOKIE = $cook;
+
+# Example with Div
+`div('Hello World!',['id'=>'div','class'=>'div']);   Result => <div id="div" clas="div">Hello World!</div>`
