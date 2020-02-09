@@ -22,3 +22,8 @@ The library is usually used to easily add html codes to php in a couple of lines
   br(), 
   h(1,2,3,4,5,6)(), 
   p(), alert(), console(), serif(), serif2(), aharoni(), lower(), up(), upper(), mono(), create(), consolewarn(), consoleinfo(), consoleerror(), dump(), pr(), chars(), div(), pre(), times(), dates(), a(), and others...</b>
+
+# Global Variables
+$_POST = $post;
+$_GET = $get;
+$_COOKIE = $cook;
