@@ -29,4 +29,4 @@ $_GET = $get;
 $_COOKIE = $cook;
 
 # Example with Div
-`div('Hello World!',['id'=>'div','class'=>'div']);   Result => <div id="div" clas="div">Hello World!</div>`
+`div('Hello World!',['id'=>'div','class'=>'div']);   Result => <div id="div" class="div">Hello World!</div>`
