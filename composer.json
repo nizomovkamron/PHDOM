@@ -1,0 +1,14 @@
+{
+    "name": "phdom/phdom",
+    "description": "This library help you work with html/php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nizomov Kamron",
+            "email": "nizomovkamron@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
